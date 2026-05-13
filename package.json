@@ -1,0 +1,8 @@
+{
+  "name": "pi-extensions-dalai-lama",
+  "version": "1.0.0",
+  "description": "Pi extension: /dalai command — reincarnate your agent session into a fresh one",
+  "pi": {
+    "extensions": ["./index.ts"]
+  }
+}
